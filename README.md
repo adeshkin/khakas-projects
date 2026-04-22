@@ -11,7 +11,7 @@
 | 🎤 [khakas-asr](https://github.com/adeshkin/khakas-asr) | Распознавание речи (Automatic Speech Recognition). |
 | 🌐 [khakas-mt](https://github.com/adeshkin/khakas-mt) | Машинный перевод (Machine Translation). |
 | 🆔 [khakas-lid](https://github.com/adeshkin/khakas-lid) | Инструмент автоматического определения хакасского языка (Language Identification). |
-| 🔢 [khakas-embedding](https://github.com/adeshkin/khakas-emb) | Векторные представления (Embeddings) для NLP-задач. |
+| 🔢 [khakas-emb](https://github.com/adeshkin/khakas-emb) | Векторные представления (Embeddings) для NLP-задач. |
 
 ## О проекте
 Данные репозитории содержат наборы данных (datasets), предобученные модели и исходный код для разработчиков и лингвистов, работающих с тюркскими языками.
